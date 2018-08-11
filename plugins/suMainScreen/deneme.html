@@ -1,0 +1,182 @@
+<div id="mtMainScreenDiv">
+	<div id="mtMainScreen_accordion">
+		<h3>Arama</h3>
+		<div>
+			<div id="mtMainScreen_aramaTabs">
+				<ul>
+					<li style="margin-left:311px;"><a href="#mtMainScreen_musteriAramaTab">Müşteri Arama</a></li>
+					<li><a href="#mtMainScreen_yeniMusteriKayitTab">Yeni Müşteri Kayıt</a></li>
+					<li style="margin-right:311px;"><a href="#mtMainScreen_firmalarimTab">Firmalarım</a></li>
+				</ul>
+				<div id="mtMainScreen_musteriAramaTab">
+					<div id="mtMainScreen_musteriAramaDiv">
+						<div id="mtMainScreen_musteriAramaContainerDiv">
+							<div id="mtMainScreen_musteriAramaLeftDiv">
+								<div class="mtMainScreen_musteriAramaRow">
+									<label>Şirket Ünvanı:</label>
+									<input type="text" id="mtMainScreen_musteriAramaSirketUnvaniInput"/>
+								</div>
+								<div class="mtMainScreen_musteriAramaRow">
+									<label>Şirket Tel:</label>
+									<input type="text" id="mtMainScreen_musteriAramaSirketTelInput"/>
+								</div>
+								<div class="mtMainScreen_musteriAramaRow">
+									<label>Şirket Marka:</label>
+									<input type="text" id="mtMainScreen_musteriAramaSirketMarkaInput"/>
+								</div>
+								<div class="mtMainScreen_musteriAramaRow">
+									<label>Çalışan Adı:</label>
+									<input type="text" id="mtMainScreen_musteriAramaCalisanAdiInput"/>
+								</div>
+								<div class="mtMainScreen_musteriAramaRow">
+									<label>Çalışan Soyadı:</label>
+									<input type="text" id="mtMainScreen_musteriAramaCalisanSoyadiInput"/>
+								</div>
+							</div>
+							<div id="mtMainScreen_musteriAramaRightDiv">
+								<div class="mtMainScreen_musteriAramaRow">
+									<label>Adres Ülke:</label>
+									<select id="mtMainScreen_musteriAramaAdresUlkeSelect">
+										<option>Seçiniz</option>
+									</select>
+								</div>
+								<div class="mtMainScreen_musteriAramaRow">
+									<label>Adres İl:</label>
+									<select type="text" id="mtMainScreen_musteriAdresIlSelect">
+										<option>Seçiniz</option>
+									</select>
+								</div>
+							</div>
+						</div>
+						<div id="mtMainScreen_musteriAramaButtonDiv">
+							<input id="mtMainScreen_musteriAramaSearchButton" type="Submit" value="Ara"/>
+						</div>
+					</div>
+					<div id="mtMainScreen_musteriSonucDiv">
+					</div>
+				</div>
+				<div id="mtMainScreen_yeniMusteriKayitTab">
+					<div id="mtMainScreen_yeniMusteriKayitContainerDiv">
+						<div id="mtMainScreen_yeniMusteriKayitLeftDiv">
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>Ünvan:</label>
+								<input type="text" id="mtMainScreen_yeniMusteriKayitUnvanInput"/>
+							</div>
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>Marka:</label>
+								<input type="text" id="mtMainScreen_yeniMusteriKayitMarkaInput"/>
+							</div>
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>Vergi Dairesi:</label>
+								<input type="text" id="mtMainScreen_yeniMusteriKayitVergiDairesiInput"/>
+							</div>
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>Vergi No:</label>
+								<input type="text" id="mtMainScreen_yeniMusteriKayitVergiNoInput"/>
+							</div>
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>Sektör:</label>
+								<select id="mtMainScreen_yeniMusteriKayitSektorSelect">
+									<option value="-1">Seçiniz</option>
+								</select>
+							</div>
+						</div>
+						<div id="mtMainScreen_yeniMusteriKayitRightDiv">
+							<div class="mtMainScreen_musteriAramaRow">
+								<span style="font-weight:bold;font-size:13px;">Merkez Bilgileri</span>
+							</div>
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>Adres:</label>
+								<textarea id="mtMainScreen_yeniMusteriKayitAdresInput"></textarea>
+							</div>
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>İlçe:</label>
+								<input type="text" id="mtMainScreen_yeniMusteriKayitIlceInput"/>
+							</div>
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>Şehir:</label>
+								<select id="mtMainScreen_yeniMusteriKayitSehirSelect">
+									<option value="-1">Seçiniz</option>
+								</select>
+							</div>
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>Ülke:</label>
+								<select id="mtMainScreen_yeniMusteriKayitUlkeSelect">
+									<option value="-1">Seçiniz</option>
+								</select>
+							</div>
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>Web:</label>
+								<input type="text" id="mtMainScreen_yeniMusteriKayitWebInput"/>
+							</div>
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>E-mail:</label>
+								<input type="text" id="mtMainScreen_yeniMusteriKayitEmailInput"/>
+							</div>
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>Tel1:</label>
+								<input type="text" id="mtMainScreen_yeniMusteriKayitTel1Input"/>
+							</div>
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>Tel2:</label>
+								<input type="text" id="mtMainScreen_yeniMusteriKayitTel2Input"/>
+							</div>
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>Tel3:</label>
+								<input type="text" id="mtMainScreen_yeniMusteriKayitTel3Input"/>
+							</div>
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>Faks:</label>
+								<input type="text" id="mtMainScreen_yeniMusteriKayitFaksInput"/>
+							</div>
+							<div class="mtMainScreen_yeniMusteriKayitRow">
+								<label>Notlar:</label>
+								<input type="text" id="mtMainScreen_yeniMusteriKayitNotlarInput"/>
+							</div>
+						</div>
+					</div>
+					<div id="mtMainScreen_yeniMusteriKayitButtonDiv">
+						<input id="mtMainScreen_yeniMusteriKayitSaveButton" type="Submit" value="Kaydet"/>
+					</div>
+				</div>
+				<div id="mtMainScreen_firmalarimTab">
+				</div>
+			</div>
+		</div>
+		<h3>Satış</h3>
+		<div>
+			<div id="mtMainScreen_satisAramaContainerDiv">
+				<div id="mtMainScreen_satisAramaLeftDiv">
+					<div class="mtMainScreen_satisAramaRow">
+						<label>Başlangıç Tarihi:</label>
+						<input type="text" id="mtMainScreen_satisAramaBaslangicTarihiInput"/>
+					</div>
+					<div class="mtMainScreen_satisAramaRow">
+						<label>Fuar:</label>
+						<select id="mtMainScreen_satisAramaFuarSelect">
+							<option>Seçiniz</option>
+						</select>
+					</div>
+				</div>
+				<div id="mtMainScreen_satisAramaRightDiv">
+					<div class="mtMainScreen_satisAramaRow">
+						<label>Bitiş Tarihi:</label>
+						<input type="text" id="mtMainScreen_satisAramaBaslangicTarihiInput"/>
+					</div>
+					<div class="mtMainScreen_satisAramaRow">
+						<label>MT:</label>
+						<select id="mtMainScreen_satisAramaFuarSelect">
+							<option>Seçiniz</option>
+						</select>
+					</div>
+				</div>
+			</div>
+			<div id="mtMainScreen_satisAramaButtonDiv">
+				<input id="mtMainScreen_satisAramaSearchButton" type="Submit" value="Ara"/>
+			</div>
+		</div>
+		<h3>Görüşme</h3>
+		<div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,600 @@
+#mtMainScreenDiv
+{
+	margin-bottom: 5px;
+}
+
+#mtMainScreen_aramaAccordionDiv
+{
+	height: 490px !important;
+}
+
+#mtMainScreen_satisAccordionDiv
+{
+	height: 790px !important;
+}
+
+#mtMainScreen_gorusmeAccordionDiv
+{
+	height: 515px !important;
+}
+
+#mtMainScreen_musteriAramaContainerDiv
+{
+	height: 150px;
+}
+
+#mtMainScreen_musteriAramaButtonDiv
+{
+	height: 30px;
+}
+
+#mtMainScreen_musteriAramaLeftDiv, #mtMainScreen_musteriAramaRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#mtMainScreen_musteriAramaAdresUlkeSelect, #mtMainScreen_musteriAdresIlSelect
+{
+	width: 100px;
+}
+
+.mtMainScreen_musteriAramaRow
+{
+	margin-bottom: 5px;
+}
+
+.mtMainScreen_musteriAramaRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 100px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.mtMainScreen_musteriAramaRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#mtMainScreen_musteriSonucDiv
+{
+	height: 230px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+
+#mtMainScreen_yeniMusteriKayitContainerDiv
+{
+	height: 350px;
+}
+
+#mtMainScreen_yeniMusteriKayitButtonDiv
+{
+	height: 30px;
+}
+
+#mtMainScreen_yeniMusteriKayitLeftDiv, #mtMainScreen_yeniMusteriKayitRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#mtMainScreen_yeniMusteriKayitSehirSelect, #mtMainScreen_yeniMusteriKayitUlkeSelect, #mtMainScreen_yeniMusteriKayitSektorSelect
+{
+	width: 168px;
+}
+
+.mtMainScreen_yeniMusteriKayitRow
+{
+	margin-bottom: 3px;
+}
+
+.mtMainScreen_yeniMusteriKayitRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 100px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.mtMainScreen_yeniMusteriKayitRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+	width: 168px;
+}
+
+.mtMainScreen_yeniMusteriKayitRow>textarea
+{
+	padding: .105em 1.8em .105em .2em;
+	width: 168px;
+	resize: none;
+}
+
+#mtMainScreen_satisAramaContainerDiv
+{
+	height: 75px;
+}
+
+#mtMainScreen_satisAramaButtonDiv
+{
+	height: 30px;
+}
+
+#mtMainScreen_satisAramaLeftDiv, #mtMainScreen_satisAramaRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#mtMainScreen_satisAramaFuarSelect, #mtMainScreen_satisAramaMTSelect
+{
+	width: 168px;
+}
+
+.mtMainScreen_satisAramaRow
+{
+	margin-bottom: 5px;
+}
+
+.mtMainScreen_satisAramaRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.mtMainScreen_satisAramaRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#mtMainScreen_satisSonucDiv
+{
+	height: 520px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#mtMainScreen_satisOzetDiv
+{
+	height: 25px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#mtMainScreen_gorusmeAramaContainerDiv
+{
+	height: 75px;
+}
+
+#mtMainScreen_gorusmeOzetDiv
+{
+	height: 25px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#mtMainScreen_gorusmeAramaButtonDiv
+{
+	height: 30px;
+}
+
+#mtMainScreen_gorusmeAramaLeftDiv, #mtMainScreen_gorusmeAramaRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#mtMainScreen_gorusmeAramaFuarSelect, #mtMainScreen_gorusmeAramaMTSelect
+{
+	width: 168px;
+}
+
+.mtMainScreen_gorusmeAramaRow
+{
+	margin-bottom: 5px;
+}
+
+.mtMainScreen_gorusmeAramaRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.mtMainScreen_gorusmeAramaRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#mtMainScreen_gorusmeSonucDiv
+{
+	height: 360px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.mtMainScreen_musteriSonucHeaderRow
+{
+	width: 100%;
+	font-weight: bold;
+	font-size: 14px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom: 1px solid #096ac8;
+	height: 20px;
+}
+
+.mtMainScreen_musteriSonucRow
+{
+	width: 100%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 13px;
+	border-bottom: 1px solid #096ac8;
+	height: 20px;
+}
+
+.mtMainScreen_musteriSonucLockCell
+{
+	float: left;
+	text-align: center;
+	width: 6%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.mtMainScreen_musteriSonucTitleCell
+{
+	float: left;
+	text-align: center;
+	width: 48%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.mtMainScreen_musteriSonucPhoneNumberCell
+{
+	float: left;
+	text-align: center;
+	width: 15%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.mtMainScreen_musteriSonucMailCell
+{
+	float: left;
+	text-align: center;
+	width: 15%;
+	height: 100%;
+	border-right: 1px solid #096ac8;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.mtMainScreen_musteriSonucWebsiteCell
+{
+	float: left;
+	text-align: center;
+	width: 15%;
+	height: 100%;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.mtMainScreen_musteriSonucLink:hover
+{
+	text-decoration: underline;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+#mtMainScreen_firmalarimContainerDiv
+{
+	height: 415px;
+}
+
+#mtMainScreen_musteriDetaylariContainerDiv
+{
+	height: 415px;
+	font-size: 13px;
+	font-family: Arial;
+}
+
+#mtMainScreen_showContractDetails_topDiv
+{
+	height: 680px;
+}
+
+#mtMainScreen_satisDetaylariContainerDiv
+{
+	height: 720px;
+	font-size: 13px;
+	font-family: Arial;
+}
+
+.mtMainScreen_musteriDetaylariTopDiv
+{
+	height: 310px;
+}
+
+.mtMainScreen_musteriDetaylariLeftDiv
+{
+	height: 100%;
+	float: left;
+	width: 40%;
+}
+
+.mtMainScreen_musteriDetaylariRightDiv
+{
+	height: 100%;
+	float: left;
+	width: 60%;
+}
+
+.mtMainScreen_musteriDetaylariLabel
+{
+	text-align: left;
+	font-weight: bold;
+	width: 100px;
+	display: block;
+	float: left;
+	margin-left: 20px;
+}
+
+.mtMainScreen_musteriDetaylariRightLabel
+{
+	text-align: left;
+	font-weight: bold;
+	display: block;
+	float: left;
+	margin-left: 5px;
+	margin-right: 3px;
+}
+
+.mtMainScreen_musteriDetaylariSpan
+{
+	text-align: left;
+	display: block;
+	float: left;
+	margin-left: 20px;
+}
+
+.mtMainScreen_musteriDetaylariRightSpan
+{
+	text-align: left;
+	display: block;
+	float: left;
+	margin-right: 8px;
+}
+
+.mtMainScreen_musteriDetaylarSubeRow
+{
+	height: 20px;
+}
+
+.mtMainScreen_musteriDetaylarSubeButton
+{
+	font-size: 12px !important;
+	font-family: Arial !important;
+}
+
+.mtMainScreen_musteriDetaylariContactsDiv
+{
+	height: 120px;
+	overflow-y: auto;
+}
+
+.mtMainScreen_musteriDetaylariContactDiv
+{
+	height: 20px;
+	font-size: 11px;
+	font-family: Arial;
+}
+
+.mtMainScreen_musteriDetaylariContactInfoDiv
+{
+	float: left;
+	height: 100%;
+	width: 70%;
+}
+
+.mtMainScreen_musteriDetaylariContactButtonsDiv
+{
+	float: left;
+	height: 100%;
+	width: 30%;
+}
+
+.mtMainScreen_musteriDetaylarButton
+{
+	font-size: 12px !important;
+	font-family: Arial !important;
+	width: 150px;
+}
+
+.mtMainScreen_musteriDetaylarButton>.ui-button-text, .mtMainScreen_musteriDetaylarSubeButton>.ui-button-text
+{
+	padding-top: 2px !important;
+	padding-bottom: 2px !important;
+	padding-left: 5px !important;
+	padding-right: 5px !important;
+}
+
+#mtMainScreen_firmalarimSozlesmeliSonucDiv
+{
+	height: 330px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#mtMainScreen_firmalarimTakipSonucDiv
+{
+	height: 330px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.mtMainScreen_satisSonucRow
+{
+	width: 100%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 13px;
+	border-bottom: 1px solid #096ac8;
+	height: 20px;
+}
+
+.mtMainScreen_satisSonucRow:hover
+{
+	text-decoration:underline;
+	cursor: pointer;
+}
+
+#mtMainScreen_showContractDetails_leftDiv
+{
+	width: 50%;
+	float: left;
+}
+
+#mtMainScreen_showContractDetails_rightDiv
+{
+	width: 50%;
+	float: right;
+}
+
+.mtMainScreen_showContractDetails_outputDiv
+{
+	height: 34px;
+	margin-bottom: 2px;
+	padding-top: 3px;
+}
+
+.mtMainScreen_showContractDetails_label
+{
+	display: block;
+	float: left;
+	text-align: left;
+	font-weight: bold;
+	font-family: Arial;
+    font-size: 12px;
+    margin-bottom: 3px;
+    width: 110px;
+	margin-left: 90px;
+}
+
+.mtMainScreen_gorusmeSonucRow
+{
+	width: 100%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 12px;
+	border-bottom: 1px solid #096ac8;
+	min-height: 20px;
+}
+
+
+#mtMainScreen_paymentPlanDiv
+{
+	height: 220px;
+	overflow-y: auto;
+}
+
+.mtMainScreen_paymentLabel
+{
+	display: block;
+	float: left;
+	width: 90px;
+	margin-right: 5px;
+}
+
+.mtMainScreen_paymentDueDateLabel
+{
+	display: block;
+	float: left;
+	width: 90px;
+	margin-right: 5px;
+}
+
+.mtMainScreen_paymentPaidCheckbox
+{
+	display: block;
+	float: left;
+}
+
+.mtMainScreen_paymentPaidSpan
+{
+	display: block;
+	float: left;
+}
+
+#mtMainScreen_fuarlarVeKatilimcilarContainerDiv
+{
+	height: 415px;
+	font-size: 13px;
+	font-family: Arial;
+}
+
+#mtMainScreen_fuarKatilimciAramaContainerDiv
+{
+	height: 75px;
+}
+
+.mtMainScreen_fuarKatilimciAramaRow
+{
+	margin-bottom: 5px;
+}
+
+.mtMainScreen_fuarKatilimciAramaRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	margin-right: 15px;
+}
+
+#mtMainScreen_fuarKatilimciAramaFuarSelect {
+	width: 168px;
+}
+
+#mtMainScreen_fuarKatilimciSonucDiv
+{
+	height: 350px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}

@@ -1,0 +1,31 @@
+Bu sirket fuar organizasyonu yapiyor. Fuara katilcak firmalarla sozlesme imzalaniyor
+Fuar tiklaninca, o fuarda sozlesme yapilan firmalar cikiyo.
+--Her fuarin bir fiyati var..Sozlesmede olacak. Saydafa bir yerde gorunucek ( fuar label yani mesela )
+--Stand alani m2 cinsinden kiralanan alan
+--Tutar -> KDV siz...(kiralanan m2 * fuar fiyati)....Tahsil Edilen ( KDV li tutar %4)...
+--Feragat Edilen yok...
+( 10 m3 alan alan sirketlere 1 m3 ucretsiz nakliye var)..Nakliye alani checkbox ( 1- 0 ) , yanina Extra Navlun( Nakliye) alani 
+eklenecek. Bu alanin mantigi su.sirket %10 un  ustunde nakliye isterse, ek ucret..alan string, NULL girilince "-" basilabilir.
+--Turizm alani kalkiyor...Extra alani grid acilacak , expand - collapse , acildiginda, fuar icin sozlesmede girilmis 
+olan extra malzemelerin listesi gorunucek
+--fuardaki sirketlere tiklaninca acilan sayfa o firmayla yapilan sozlesme detaylarini gosteriyor. Goruntu benzeri korunacak gibi..
+--yonetici sayfasinda onaylar + hesabim alani kalkacak. ( 2 alan olmus oldu ) 3. alan olarak Personel Izleme tarzinda
+bir label olacak..icinde..Tum gruplar olacak..Gruplara tiklaninca ( dynamic listbox) o gruptaki personeller gorunecek.. Personel
+tiklaninca, o personelin fuar bazinda , 3-6-12 aylik randevu, gorusme ve satis mt karesini gormek istiyor. Bunu fuar bazinda
+( cezayir fuari, paris fuari) m2 cinsinden ( ya da yuzde cinsinden ) pasta veya baska bir statistical goruntuyle gosterilecek.
+-----------------------------------------------------MT--------------------------------------------------
+
+--onay tab'i kalkacak. Sadece ana sayfa'daki seyler kalacak.
+--yeni musteri kaydina sirket sahibi ve irtibat kurulacak kisi bilgileri ( isim + tel ) eklenecek..Ikinci adres (lokasyon) bilgi textbox' girilecek ( not mandatory)
+Firmalarim tab'-  //yapıldı
+--Son 30 gun icerisinde tum aktivitelerin ( kilit olsa da olmasa da )
+-- datagrid haricindeki ( sayfanin asagisinda kalan seyler ) kalkacak.
+--firmalarin ustune tiklaninca
+--yeni gorusme ekleme linkinde, fuar combobox 'i kalkacak,o grid'deki alt taraftaki combo da kalkacak..
+-- kisi degistir linkine tiklandiginda , unvan yazan textbox, o kisinin o sirketteki durumunu gosteriyor. ( Isten Ayrildi)..Bu no gibi birsey
+o label statu( Durum) olarak degistirilip sadece bilgi olarak tutulacak.
+--eski gorusmeleri goster linki o sirketle ilgili kayit giriligi andan itibaren tum kayitlar, formati ayni kalacak sekilde..
+--YEni kisi ekle - > Firmada yeni irtibat kurabilecegin kisinin bilgileri..
+-- Satis Yap-> sozlesme ekrani acilacak..
+-- Sozlsme goster -> Bir datagrid halinde o firmayla yapilan tum sozlesmeler gozukecek..expand-collapse dusunulebilir burda 
+

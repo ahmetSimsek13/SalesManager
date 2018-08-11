@@ -1,0 +1,60 @@
+#editCustomerLocation_holder
+{
+	width: 600px;
+	height: auto;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+}
+
+.editCustomerLocation_inputDiv
+{
+	height: 34px;
+	margin-bottom: 2px;
+}
+
+.editCustomerLocation_input
+{
+	display: block;
+	float: left;
+	font-family: Arial !important;
+    font-size: 12px !important;
+    margin-bottom: 3px;
+    width: 250px;
+}
+
+.editCustomerLocation_label
+{
+	display: block;
+	float: left;
+	text-align: left;
+	font-weight: bold;
+	font-family: Arial;
+    font-size: 12px;
+    margin-bottom: 3px;
+	margin-top: 1px;
+	padding-top: 2px;
+    width: 110px;
+	margin-left: 130px;
+}
+
+#editCustomerLocation_submitButton
+{
+	font-family: Arial !important;
+    font-size: 12px !important;
+	font-weight: bold;
+}
+
+#editCustomerLocation_addressInput
+{
+	padding: .105em 1.8em .105em .2em;
+	resize: none;
+	height: 26px;
+}
+
+.editCustomerLocation_selectDiv
+{
+	display: block;
+	float: left;
+}

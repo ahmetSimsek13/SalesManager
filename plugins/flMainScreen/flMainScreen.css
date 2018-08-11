@@ -1,0 +1,1088 @@
+#flMainScreenDiv
+{
+	margin-bottom: 5px;
+}
+
+#flMainScreen_aramaAccordionDiv
+{
+	height: 490px !important;
+}
+
+#flMainScreen_satisAccordionDiv
+{
+	height: 790px !important;
+}
+
+#flMainScreen_gorusmeAccordionDiv
+{
+	height: 515px !important;
+}
+
+#flMainScreen_istatistikAccordionDiv
+{
+	height: 820px !important;
+}
+
+#flMainScreen_onayAccordionDiv
+{
+	height: 490px !important;
+}
+
+#flMainScreen_musteriAramaContainerDiv
+{
+	height: 150px;
+}
+
+#flMainScreen_musteriAramaButtonDiv
+{
+	height: 30px;
+}
+
+#flMainScreen_musteriAramaLeftDiv, #flMainScreen_musteriAramaRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#flMainScreen_musteriAramaAdresUlkeSelect, #flMainScreen_musteriAdresIlSelect
+{
+	width: 100px;
+}
+
+.flMainScreen_musteriAramaRow
+{
+	margin-bottom: 5px;
+}
+
+.flMainScreen_musteriAramaRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 100px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.flMainScreen_musteriAramaRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#flMainScreen_musteriSonucDiv
+{
+	height: 230px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+
+#flMainScreen_yeniMusteriKayitContainerDiv
+{
+	height: 350px;
+}
+
+#flMainScreen_yeniMusteriKayitButtonDiv
+{
+	height: 30px;
+}
+
+#flMainScreen_yeniMusteriKayitLeftDiv, #flMainScreen_yeniMusteriKayitRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#flMainScreen_yeniMusteriKayitSehirSelect, #flMainScreen_yeniMusteriKayitUlkeSelect, #flMainScreen_yeniMusteriKayitSektorSelect
+{
+	width: 168px;
+}
+
+.flMainScreen_yeniMusteriKayitRow
+{
+	margin-bottom: 3px;
+}
+
+.flMainScreen_yeniMusteriKayitRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 100px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.flMainScreen_yeniMusteriKayitRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+	width: 168px;
+}
+
+.flMainScreen_yeniMusteriKayitRow>textarea
+{
+	padding: .105em 1.8em .105em .2em;
+	width: 168px;
+	resize: none;
+}
+
+#flMainScreen_satisAramaContainerDiv
+{
+	height: 75px;
+}
+
+#flMainScreen_satisAramaButtonDiv
+{
+	height: 30px;
+}
+
+#flMainScreen_satisAramaLeftDiv, #flMainScreen_satisAramaRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#flMainScreen_satisAramaFuarSelect, #flMainScreen_satisAramaMTSelect
+{
+	width: 168px;
+}
+
+.flMainScreen_satisAramaRow
+{
+	margin-bottom: 5px;
+}
+
+.flMainScreen_satisAramaRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.flMainScreen_satisAramaRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#flMainScreen_satisSonucDiv
+{
+	height: 520px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#flMainScreen_satisOzetDiv
+{
+	height: 25px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#flMainScreen_gorusmeAramaContainerDiv
+{
+	height: 75px;
+}
+
+#flMainScreen_gorusmeOzetDiv
+{
+	height: 25px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#flMainScreen_gorusmeAramaButtonDiv
+{
+	height: 30px;
+}
+
+#flMainScreen_gorusmeAramaLeftDiv, #flMainScreen_gorusmeAramaRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#flMainScreen_gorusmeAramaFuarSelect, #flMainScreen_gorusmeAramaMTSelect
+{
+	width: 168px;
+}
+
+.flMainScreen_gorusmeAramaRow
+{
+	margin-bottom: 5px;
+}
+
+.flMainScreen_gorusmeAramaRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.flMainScreen_gorusmeAramaRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#flMainScreen_gorusmeSonucDiv
+{
+	height: 360px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.flMainScreen_musteriSonucHeaderRow
+{
+	width: 100%;
+	font-weight: bold;
+	font-size: 14px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom: 1px solid #096ac8;
+	height: 20px;
+}
+
+.flMainScreen_musteriSonucRow
+{
+	width: 100%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 13px;
+	border-bottom: 1px solid #096ac8;
+	height: 20px;
+}
+
+.flMainScreen_musteriSonucLockCell
+{
+	float: left;
+	text-align: center;
+	width: 6%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.flMainScreen_musteriSonucTitleCell
+{
+	float: left;
+	text-align: center;
+	width: 48%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.flMainScreen_musteriSonucPhoneNumberCell
+{
+	float: left;
+	text-align: center;
+	width: 15%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.flMainScreen_musteriSonucMailCell
+{
+	float: left;
+	text-align: center;
+	width: 15%;
+	height: 100%;
+	border-right: 1px solid #096ac8;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.flMainScreen_musteriSonucWebsiteCell
+{
+	float: left;
+	text-align: center;
+	width: 15%;
+	height: 100%;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.flMainScreen_musteriSonucLink:hover
+{
+	text-decoration: underline;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+#flMainScreen_firmalarimContainerDiv
+{
+	height: 415px;
+}
+
+#flMainScreen_musteriDetaylariContainerDiv
+{
+	height: 415px;
+	font-size: 13px;
+	font-family: Arial;
+}
+
+#flMainScreen_showContractDetails_topDiv
+{
+	height: 680px;
+}
+
+#flMainScreen_satisDetaylariContainerDiv
+{
+	height: 720px;
+	font-size: 13px;
+	font-family: Arial;
+}
+
+.flMainScreen_musteriDetaylariTopDiv
+{
+	height: 310px;
+}
+
+.flMainScreen_musteriDetaylariLeftDiv
+{
+	height: 100%;
+	float: left;
+	width: 40%;
+}
+
+.flMainScreen_musteriDetaylariRightDiv
+{
+	height: 100%;
+	float: left;
+	width: 60%;
+}
+
+.flMainScreen_musteriDetaylariLabel
+{
+	text-align: left;
+	font-weight: bold;
+	width: 100px;
+	display: block;
+	float: left;
+	margin-left: 20px;
+}
+
+.flMainScreen_musteriDetaylariRightLabel
+{
+	text-align: left;
+	font-weight: bold;
+	display: block;
+	float: left;
+	margin-left: 5px;
+	margin-right: 3px;
+}
+
+.flMainScreen_musteriDetaylariSpan
+{
+	text-align: left;
+	display: block;
+	float: left;
+	margin-left: 20px;
+}
+
+.flMainScreen_musteriDetaylariRightSpan
+{
+	text-align: left;
+	display: block;
+	float: left;
+	margin-right: 8px;
+}
+
+.flMainScreen_musteriDetaylarSubeRow
+{
+	height: 20px;
+}
+
+.flMainScreen_musteriDetaylarSubeButton
+{
+	font-size: 12px !important;
+	font-family: Arial !important;
+}
+
+.flMainScreen_musteriDetaylariContactsDiv
+{
+	height: 120px;
+	overflow-y: auto;
+}
+
+.flMainScreen_musteriDetaylariContactDiv
+{
+	height: 20px;
+	font-size: 11px;
+	font-family: Arial;
+}
+
+.flMainScreen_musteriDetaylariContactInfoDiv
+{
+	float: left;
+	height: 100%;
+	width: 70%;
+}
+
+.flMainScreen_musteriDetaylariContactButtonsDiv
+{
+	float: left;
+	height: 100%;
+	width: 30%;
+}
+
+.flMainScreen_musteriDetaylarButton
+{
+	font-size: 12px !important;
+	font-family: Arial !important;
+	width: 150px;
+}
+
+.flMainScreen_musteriDetaylarButton>.ui-button-text, .flMainScreen_musteriDetaylarSubeButton>.ui-button-text
+{
+	padding-top: 2px !important;
+	padding-bottom: 2px !important;
+	padding-left: 5px !important;
+	padding-right: 5px !important;
+}
+
+#flMainScreen_firmalarimSozlesmeliSonucDiv
+{
+	height: 330px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#flMainScreen_firmalarimTakipSonucDiv
+{
+	height: 330px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.flMainScreen_satisSonucRow
+{
+	width: 100%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 13px;
+	border-bottom: 1px solid #096ac8;
+	height: 20px;
+}
+
+.flMainScreen_satisSonucRow:hover
+{
+	text-decoration:underline;
+	cursor: pointer;
+}
+
+#flMainScreen_showContractDetails_leftDiv
+{
+	width: 50%;
+	float: left;
+}
+
+#flMainScreen_showContractDetails_rightDiv
+{
+	width: 50%;
+	float: right;
+}
+
+.flMainScreen_showContractDetails_outputDiv
+{
+	height: 34px;
+	margin-bottom: 2px;
+	padding-top: 3px;
+}
+
+.flMainScreen_showContractDetails_label
+{
+	display: block;
+	float: left;
+	text-align: left;
+	font-weight: bold;
+	font-family: Arial;
+    font-size: 12px;
+    margin-bottom: 3px;
+    width: 110px;
+	margin-left: 90px;
+}
+
+.flMainScreen_gorusmeSonucRow
+{
+	width: 100%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 12px;
+	border-bottom: 1px solid #096ac8;
+	min-height: 20px;
+}
+
+#flMainScreen_firmaIstatistikContainerDiv
+{
+	height: 75px;
+}
+
+#flMainScreen_firmaIstatistikButtonDiv
+{
+	height: 30px;
+}
+
+#flMainScreen_firmaIstatistikLeftDiv, #flMainScreen_firmaIstatistikRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#flMainScreen_firmaIstatistikFirmaSelect
+{
+	width: 168px;
+}
+
+.flMainScreen_firmaIstatistikRow
+{
+	margin-bottom: 5px;
+}
+
+.flMainScreen_firmaIstatistikRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.flMainScreen_firmaIstatistikRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#flMainScreen_firmaIstatistikSonucDiv
+{
+	height: 600px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.flMainScreen_firmaIstatistikSonucRow
+{
+	height: 300px;
+}
+
+.flMainScreen_firmaIstatistikChartDiv
+{
+	height: 100%;
+	width: 31%;
+	margin-left: 1%;
+	margin-right: 1%;
+	float: left;
+	color: white !important;
+}
+
+.flMainScreen_firmaIstatistikChartDiv .pointer
+{
+	display:none;
+}
+
+#flMainScreen_mtIstatistikContainerDiv
+{
+	height: 75px;
+}
+
+#flMainScreen_mtIstatistikButtonDiv
+{
+	height: 30px;
+}
+
+#flMainScreen_mtIstatistikLeftDiv, #flMainScreen_mtIstatistikRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#flMainScreen_mtIstatistikMTSelect
+{
+	width: 168px;
+}
+
+.flMainScreen_mtIstatistikRow
+{
+	margin-bottom: 5px;
+}
+
+.flMainScreen_mtIstatistikRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.flMainScreen_mtIstatistikRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#flMainScreen_mtIstatistikSonucDiv
+{
+	height: 600px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.flMainScreen_mtIstatistikSonucRow
+{
+	height: 300px;
+}
+
+.flMainScreen_mtIstatistikChartDiv
+{
+	height: 100%;
+	width: 31%;
+	margin-left: 1%;
+	margin-right: 1%;
+	float: left;
+	color: white !important;
+}
+
+.flMainScreen_mtIstatistikChartDiv .pointer
+{
+	display:none;
+}
+
+#flMainScreen_fuarIstatistikContainerDiv
+{
+	height: 75px;
+}
+
+#flMainScreen_fuarIstatistikButtonDiv
+{
+	height: 30px;
+}
+
+#flMainScreen_fuarIstatistikLeftDiv, #flMainScreen_fuarIstatistikRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#flMainScreen_fuarIstatistikfuarSelect
+{
+	width: 168px;
+}
+
+.flMainScreen_fuarIstatistikRow
+{
+	margin-bottom: 5px;
+}
+
+.flMainScreen_fuarIstatistikRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.flMainScreen_fuarIstatistikRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#flMainScreen_fuarIstatistikSonucDiv
+{
+	height: 600px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.flMainScreen_fuarIstatistikSonucRow
+{
+	height: 300px;
+}
+
+.flMainScreen_fuarIstatistikChartDiv
+{
+	height: 100%;
+	width: 31%;
+	margin-left: 1%;
+	margin-right: 1%;
+	float: left;
+	color: white !important;
+}
+
+.flMainScreen_fuarIstatistikChartDiv .pointer
+{
+	display:none;
+}
+
+#flMainScreen_grupIstatistikContainerDiv
+{
+	height: 75px;
+}
+
+#flMainScreen_grupIstatistikButtonDiv
+{
+	height: 30px;
+}
+
+#flMainScreen_grupIstatistikLeftDiv, #flMainScreen_grupIstatistikRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#flMainScreen_grupIstatistikgrupSelect
+{
+	width: 168px;
+}
+
+.flMainScreen_grupIstatistikRow
+{
+	margin-bottom: 5px;
+}
+
+.flMainScreen_grupIstatistikRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.flMainScreen_grupIstatistikRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#flMainScreen_grupIstatistikSonucDiv
+{
+	height: 600px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.flMainScreen_grupIstatistikSonucRow
+{
+	height: 300px;
+}
+
+.flMainScreen_grupIstatistikChartDiv
+{
+	height: 100%;
+	width: 31%;
+	margin-left: 1%;
+	margin-right: 1%;
+	float: left;
+	color: white !important;
+}
+
+.flMainScreen_grupIstatistikChartDiv .pointer
+{
+	display:none;
+}
+
+#flMainScreen_onayBekleyenlerContainer
+{
+	height: 415px;
+}
+
+#flMainScreen_takiptenDusenlerContainer
+{
+	height: 415px;
+}
+
+#flMainScreen_onayBekleyenSozlesmelerContainer
+{
+	height: 415px;
+}
+
+#flMainScreen_onayBekleyenlerSonucDiv
+{
+	height: 410px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#flMainScreen_takiptenDusenlerSonucDiv
+{
+	height: 410px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.flMainScreen_onayBekleyenSonucHeaderRow
+{
+	width: 100%;
+	font-weight: bold;
+	font-size: 14px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom: 1px solid #096ac8;
+	height: 20px;
+}
+
+.flMainScreen_onayBekleyenSonucRow
+{
+	width: 100%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 13px;
+	border-bottom: 1px solid #096ac8;
+	height: 20px;
+}
+
+.flMainScreen_onayBekleyenSonucTitleCell
+{
+	float: left;
+	text-align: center;
+	width: 49%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.flMainScreen_onayBekleyenSonucPhoneNumberCell
+{
+	float: left;
+	text-align: center;
+	width: 13%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.flMainScreen_onayBekleyenSonucFaxCell
+{
+	float: left;
+	text-align: center;
+	width: 13%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.flMainScreen_onayBekleyenSonucTarihCell
+{
+	float: left;
+	text-align: center;
+	width: 14%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.flMainScreen_onayBekleyenSonucEmptyCell
+{
+	float: left;
+	text-align: center;
+	width: 10%;
+	height: 100%;
+}
+
+.flMainScreen_onayBekleyenSonucLink:hover
+{
+	text-decoration: underline;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.flMainScreen_onayBekleyenButton
+{
+	width: 80% !important;
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+	cursor: pointer;
+}
+
+#flMainScreen_onayBekleyenSpan
+{
+	float: left;
+	padding-top: .4em;
+	padding-bottom: .4em;
+	color: white;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+#flMainScreen_onayBekleyenSozlesmelerSonucDiv
+{
+	height: 410px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.flMainScreen_onayBekleyenSozlesmelerRow
+{
+	width: 100%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 13px;
+	border-bottom: 1px solid #096ac8;
+	height: 20px;
+}
+
+.flMainScreen_onayBekleyenSozlesmeDetailCell
+{
+	width: 85%;
+	float: left;
+	border-right: 1px solid #096ac8;
+	cursor: pointer;
+}
+
+.flMainScreen_onayBekleyenSozlesmeAktifDetailCell
+{
+	background: #096ac8;
+}
+
+.flMainScreen_onayBekleyenSozlesmeButtonCell
+{
+	width: 14%;
+	float: left;
+}
+
+.flMainScreen_onayBekleyenSozlesmeButton
+{
+	width: 70% !important;
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+	cursor: pointer;
+}
+
+#flMainScreen_paymentPlanDiv
+{
+	height: 220px;
+	overflow-y: auto;
+}
+
+.flMainScreen_paymentLabel
+{
+	display: block;
+	float: left;
+	width: 90px;
+	margin-right: 5px;
+}
+
+.flMainScreen_paymentDueDateLabel
+{
+	display: block;
+	float: left;
+	width: 90px;
+	margin-right: 5px;
+}
+
+.flMainScreen_paymentPaidCheckbox
+{
+	display: block;
+	float: left;
+}
+
+.flMainScreen_paymentPaidSpan
+{
+	display: block;
+	float: left;
+}
+
+#flMainScreen_firmaIstatistikOzetDiv, #flMainScreen_mtIstatistikOzetDiv, #flMainScreen_fuarIstatistikOzetDiv, #flMainScreen_grupIstatistikOzetDiv
+{
+	height: 25px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#flMainScreen_mtFirmaAramaMainContainerDiv
+{
+	height: 415px;
+	font-size: 13px;
+	font-family: Arial;
+}
+
+#flMainScreen_mtFirmaAramaContainerDiv
+{
+	height: 40px;
+}
+
+.flMainScreen_mtFirmaAramaRow
+{
+	margin-bottom: 5px;
+}
+
+.flMainScreen_mtFirmaAramaRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	margin-right: 15px;
+}
+
+#flMainScreen_mtFirmaAramaMTSelect, #flMainScreen_mtFirmaAramaLockTypeSelect{
+	width: 250px;
+}
+
+#flMainScreen_mtFirmaSonucDiv
+{
+	height: 333px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#flMainScreen_mtFirmaAramaSearchButton
+{
+	height: 30px;
+}
+
+#flMainScreen_mtFirmaAramaLeftDiv
+{
+	width: 50%;
+	float: left;
+}
+
+#flMainScreen_mtFirmaAramaRightDiv 
+{
+	width: 50%;
+	float: left;
+}

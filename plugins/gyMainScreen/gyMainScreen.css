@@ -1,0 +1,1071 @@
+#gyMainScreenDiv
+{
+	margin-bottom: 5px;
+}
+
+#gyMainScreen_aramaAccordionDiv
+{
+	height: 490px !important;
+}
+
+#gyMainScreen_satisAccordionDiv
+{
+	height: 790px !important;
+}
+
+#gyMainScreen_gorusmeAccordionDiv
+{
+	height: 515px !important;
+}
+
+#gyMainScreen_istatistikAccordionDiv
+{
+	height: 820px !important;
+}
+
+#gyMainScreen_onayAccordionDiv
+{
+	height: 490px !important;
+}
+
+#gyMainScreen_musteriAramaContainerDiv
+{
+	height: 150px;
+}
+
+#gyMainScreen_musteriAramaButtonDiv
+{
+	height: 30px;
+}
+
+#gyMainScreen_musteriAramaLeftDiv, #gyMainScreen_musteriAramaRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#gyMainScreen_musteriAramaAdresUlkeSelect, #gyMainScreen_musteriAdresIlSelect
+{
+	width: 100px;
+}
+
+.gyMainScreen_musteriAramaRow
+{
+	margin-bottom: 5px;
+}
+
+.gyMainScreen_musteriAramaRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 100px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.gyMainScreen_musteriAramaRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#gyMainScreen_musteriSonucDiv
+{
+	height: 230px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+
+#gyMainScreen_yeniMusteriKayitContainerDiv
+{
+	height: 350px;
+}
+
+#gyMainScreen_yeniMusteriKayitButtonDiv
+{
+	height: 30px;
+}
+
+#gyMainScreen_yeniMusteriKayitLeftDiv, #gyMainScreen_yeniMusteriKayitRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#gyMainScreen_yeniMusteriKayitSehirSelect, #gyMainScreen_yeniMusteriKayitUlkeSelect, #gyMainScreen_yeniMusteriKayitSektorSelect
+{
+	width: 168px;
+}
+
+.gyMainScreen_yeniMusteriKayitRow
+{
+	margin-bottom: 3px;
+}
+
+.gyMainScreen_yeniMusteriKayitRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 100px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.gyMainScreen_yeniMusteriKayitRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+	width: 168px;
+}
+
+.gyMainScreen_yeniMusteriKayitRow>textarea
+{
+	padding: .105em 1.8em .105em .2em;
+	width: 168px;
+	resize: none;
+}
+
+#gyMainScreen_satisAramaContainerDiv
+{
+	height: 75px;
+}
+
+#gyMainScreen_satisAramaButtonDiv
+{
+	height: 30px;
+}
+
+#gyMainScreen_satisAramaLeftDiv, #gyMainScreen_satisAramaRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#gyMainScreen_satisAramaFuarSelect, #gyMainScreen_satisAramaMTSelect
+{
+	width: 168px;
+}
+
+.gyMainScreen_satisAramaRow
+{
+	margin-bottom: 5px;
+}
+
+.gyMainScreen_satisAramaRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.gyMainScreen_satisAramaRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#gyMainScreen_satisSonucDiv
+{
+	height: 520px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#gyMainScreen_satisOzetDiv
+{
+	height: 25px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#gyMainScreen_gorusmeAramaContainerDiv
+{
+	height: 75px;
+}
+
+#gyMainScreen_gorusmeOzetDiv
+{
+	height: 25px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#gyMainScreen_gorusmeAramaButtonDiv
+{
+	height: 30px;
+}
+
+#gyMainScreen_gorusmeAramaLeftDiv, #gyMainScreen_gorusmeAramaRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#gyMainScreen_gorusmeAramaFuarSelect, #gyMainScreen_gorusmeAramaMTSelect
+{
+	width: 168px;
+}
+
+.gyMainScreen_gorusmeAramaRow
+{
+	margin-bottom: 5px;
+}
+
+.gyMainScreen_gorusmeAramaRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.gyMainScreen_gorusmeAramaRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#gyMainScreen_gorusmeSonucDiv
+{
+	height: 360px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.gyMainScreen_musteriSonucHeaderRow
+{
+	width: 100%;
+	font-weight: bold;
+	font-size: 14px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom: 1px solid #096ac8;
+	height: 20px;
+}
+
+.gyMainScreen_musteriSonucRow
+{
+	width: 100%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 13px;
+	border-bottom: 1px solid #096ac8;
+	height: 20px;
+}
+
+.gyMainScreen_musteriSonucLockCell
+{
+	float: left;
+	text-align: center;
+	width: 6%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.gyMainScreen_musteriSonucTitleCell
+{
+	float: left;
+	text-align: center;
+	width: 48%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.gyMainScreen_musteriSonucPhoneNumberCell
+{
+	float: left;
+	text-align: center;
+	width: 15%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.gyMainScreen_musteriSonucMailCell
+{
+	float: left;
+	text-align: center;
+	width: 15%;
+	height: 100%;
+	border-right: 1px solid #096ac8;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.gyMainScreen_musteriSonucWebsiteCell
+{
+	float: left;
+	text-align: center;
+	width: 15%;
+	height: 100%;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.gyMainScreen_musteriSonucLink:hover
+{
+	text-decoration: underline;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+#gyMainScreen_firmalarimContainerDiv
+{
+	height: 415px;
+}
+
+#gyMainScreen_musteriDetaylariContainerDiv
+{
+	height: 415px;
+	font-size: 13px;
+	font-family: Arial;
+}
+
+#gyMainScreen_showContractDetails_topDiv
+{
+	height: 680px;
+}
+
+#gyMainScreen_satisDetaylariContainerDiv
+{
+	height: 720px;
+	font-size: 13px;
+	font-family: Arial;
+}
+
+.gyMainScreen_musteriDetaylariTopDiv
+{
+	height: 310px;
+}
+
+.gyMainScreen_musteriDetaylariLeftDiv
+{
+	height: 100%;
+	float: left;
+	width: 40%;
+}
+
+.gyMainScreen_musteriDetaylariRightDiv
+{
+	height: 100%;
+	float: left;
+	width: 60%;
+}
+
+.gyMainScreen_musteriDetaylariLabel
+{
+	text-align: left;
+	font-weight: bold;
+	width: 100px;
+	display: block;
+	float: left;
+	margin-left: 20px;
+}
+
+.gyMainScreen_musteriDetaylariRightLabel
+{
+	text-align: left;
+	font-weight: bold;
+	display: block;
+	float: left;
+	margin-left: 5px;
+	margin-right: 3px;
+}
+
+.gyMainScreen_musteriDetaylariSpan
+{
+	text-align: left;
+	display: block;
+	float: left;
+	margin-left: 20px;
+}
+
+.gyMainScreen_musteriDetaylariRightSpan
+{
+	text-align: left;
+	display: block;
+	float: left;
+	margin-right: 8px;
+}
+
+.gyMainScreen_musteriDetaylarSubeRow
+{
+	height: 20px;
+}
+
+.gyMainScreen_musteriDetaylarSubeButton
+{
+	font-size: 12px !important;
+	font-family: Arial !important;
+}
+
+.gyMainScreen_musteriDetaylariContactsDiv
+{
+	height: 120px;
+	overflow-y: auto;
+}
+
+.gyMainScreen_musteriDetaylariContactDiv
+{
+	height: 20px;
+	font-size: 11px;
+	font-family: Arial;
+}
+
+.gyMainScreen_musteriDetaylariContactInfoDiv
+{
+	float: left;
+	height: 100%;
+	width: 70%;
+}
+
+.gyMainScreen_musteriDetaylariContactButtonsDiv
+{
+	float: left;
+	height: 100%;
+	width: 30%;
+}
+
+.gyMainScreen_musteriDetaylarButton
+{
+	font-size: 12px !important;
+	font-family: Arial !important;
+	width: 150px;
+}
+
+.gyMainScreen_musteriDetaylarButton>.ui-button-text, .gyMainScreen_musteriDetaylarSubeButton>.ui-button-text
+{
+	padding-top: 2px !important;
+	padding-bottom: 2px !important;
+	padding-left: 5px !important;
+	padding-right: 5px !important;
+}
+
+#gyMainScreen_firmalarimSozlesmeliSonucDiv
+{
+	height: 330px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#gyMainScreen_firmalarimTakipSonucDiv
+{
+	height: 330px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.gyMainScreen_satisSonucRow
+{
+	width: 100%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 13px;
+	border-bottom: 1px solid #096ac8;
+	height: 20px;
+}
+
+.gyMainScreen_satisSonucRow:hover
+{
+	text-decoration:underline;
+	cursor: pointer;
+}
+
+#gyMainScreen_showContractDetails_leftDiv
+{
+	width: 50%;
+	float: left;
+}
+
+#gyMainScreen_showContractDetails_rightDiv
+{
+	width: 50%;
+	float: right;
+}
+
+.gyMainScreen_showContractDetails_outputDiv
+{
+	height: 34px;
+	margin-bottom: 2px;
+	padding-top: 3px;
+}
+
+.gyMainScreen_showContractDetails_label
+{
+	display: block;
+	float: left;
+	text-align: left;
+	font-weight: bold;
+	font-family: Arial;
+    font-size: 12px;
+    margin-bottom: 3px;
+    width: 110px;
+	margin-left: 90px;
+}
+
+.gyMainScreen_gorusmeSonucRow
+{
+	width: 100%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 12px;
+	border-bottom: 1px solid #096ac8;
+	min-height: 20px;
+}
+
+#gyMainScreen_firmaIstatistikContainerDiv
+{
+	height: 75px;
+}
+
+#gyMainScreen_firmaIstatistikButtonDiv
+{
+	height: 30px;
+}
+
+#gyMainScreen_firmaIstatistikLeftDiv, #gyMainScreen_firmaIstatistikRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#gyMainScreen_firmaIstatistikFirmaSelect
+{
+	width: 168px;
+}
+
+.gyMainScreen_firmaIstatistikRow
+{
+	margin-bottom: 5px;
+}
+
+.gyMainScreen_firmaIstatistikRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.gyMainScreen_firmaIstatistikRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#gyMainScreen_firmaIstatistikSonucDiv
+{
+	height: 600px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.gyMainScreen_firmaIstatistikSonucRow
+{
+	height: 300px;
+}
+
+.gyMainScreen_firmaIstatistikChartDiv
+{
+	height: 100%;
+	width: 31%;
+	margin-left: 1%;
+	margin-right: 1%;
+	float: left;
+	color: #2E6E9E !important;
+}
+
+.gyMainScreen_firmaIstatistikChartDiv .pointer
+{
+	display:none;
+}
+
+#gyMainScreen_mtIstatistikContainerDiv
+{
+	height: 75px;
+}
+
+#gyMainScreen_mtIstatistikButtonDiv
+{
+	height: 30px;
+}
+
+#gyMainScreen_mtIstatistikLeftDiv, #gyMainScreen_mtIstatistikRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#gyMainScreen_mtIstatistikMTSelect
+{
+	width: 168px;
+}
+
+.gyMainScreen_mtIstatistikRow
+{
+	margin-bottom: 5px;
+}
+
+.gyMainScreen_mtIstatistikRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.gyMainScreen_mtIstatistikRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#gyMainScreen_mtIstatistikSonucDiv
+{
+	height: 600px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.gyMainScreen_mtIstatistikSonucRow
+{
+	height: 300px;
+}
+
+.gyMainScreen_mtIstatistikChartDiv
+{
+	height: 100%;
+	width: 31%;
+	margin-left: 1%;
+	margin-right: 1%;
+	float: left;
+	color: #2E6E9E !important;
+}
+
+.gyMainScreen_mtIstatistikChartDiv .pointer
+{
+	display:none;
+}
+
+#gyMainScreen_fuarIstatistikContainerDiv
+{
+	height: 75px;
+}
+
+#gyMainScreen_fuarIstatistikButtonDiv
+{
+	height: 30px;
+}
+
+#gyMainScreen_fuarIstatistikLeftDiv, #gyMainScreen_fuarIstatistikRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#gyMainScreen_fuarIstatistikfuarSelect
+{
+	width: 168px;
+}
+
+.gyMainScreen_fuarIstatistikRow
+{
+	margin-bottom: 5px;
+}
+
+.gyMainScreen_fuarIstatistikRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.gyMainScreen_fuarIstatistikRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#gyMainScreen_fuarIstatistikSonucDiv
+{
+	height: 600px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.gyMainScreen_fuarIstatistikSonucRow
+{
+	height: 300px;
+}
+
+.gyMainScreen_fuarIstatistikChartDiv
+{
+	height: 100%;
+	width: 31%;
+	margin-left: 1%;
+	margin-right: 1%;
+	float: left;
+	color: #2E6E9E !important;
+}
+
+.gyMainScreen_fuarIstatistikChartDiv .pointer
+{
+	display:none;
+}
+
+#gyMainScreen_grupIstatistikContainerDiv
+{
+	height: 75px;
+}
+
+#gyMainScreen_grupIstatistikButtonDiv
+{
+	height: 30px;
+}
+
+#gyMainScreen_grupIstatistikLeftDiv, #gyMainScreen_grupIstatistikRightDiv 
+{
+	width: 50%;
+	float: left;
+}
+
+#gyMainScreen_grupIstatistikgrupSelect
+{
+	width: 168px;
+}
+
+.gyMainScreen_grupIstatistikRow
+{
+	margin-bottom: 5px;
+}
+
+.gyMainScreen_grupIstatistikRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	display: block;
+	float: left;
+	margin-left: 100px;
+	padding: .105em 1.8em .105em .2em;
+}
+
+.gyMainScreen_grupIstatistikRow>input
+{
+	padding: .105em 1.8em .105em .2em;
+}
+
+#gyMainScreen_grupIstatistikSonucDiv
+{
+	height: 600px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.gyMainScreen_grupIstatistikSonucRow
+{
+	height: 300px;
+}
+
+.gyMainScreen_grupIstatistikChartDiv
+{
+	height: 100%;
+	width: 31%;
+	margin-left: 1%;
+	margin-right: 1%;
+	float: left;
+	color: #2E6E9E !important;
+}
+
+.gyMainScreen_grupIstatistikChartDiv .pointer
+{
+	display:none;
+}
+
+#gyMainScreen_onayBekleyenlerContainer
+{
+	height: 415px;
+}
+
+#gyMainScreen_takiptenDusenlerContainer
+{
+	height: 415px;
+}
+
+#gyMainScreen_onayBekleyenSozlesmelerContainer
+{
+	height: 415px;
+}
+
+#gyMainScreen_onayBekleyenlerSonucDiv
+{
+	height: 410px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#gyMainScreen_takiptenDusenlerSonucDiv
+{
+	height: 410px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.gyMainScreen_onayBekleyenSonucHeaderRow
+{
+	width: 100%;
+	font-weight: bold;
+	font-size: 14px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom: 1px solid #096ac8;
+	height: 20px;
+}
+
+.gyMainScreen_onayBekleyenSonucRow
+{
+	width: 100%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 13px;
+	border-bottom: 1px solid #096ac8;
+	height: 20px;
+}
+
+.gyMainScreen_onayBekleyenSonucTitleCell
+{
+	float: left;
+	text-align: center;
+	width: 47%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.gyMainScreen_onayBekleyenSonucPhoneNumberCell
+{
+	float: left;
+	text-align: center;
+	width: 13%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.gyMainScreen_onayBekleyenSonucMTCell
+{
+	float: left;
+	text-align: center;
+	width: 15%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.gyMainScreen_onayBekleyenSonucTarihCell
+{
+	float: left;
+	text-align: center;
+	width: 14%;
+	border-right: 1px solid #096ac8;
+	height: 100%;
+}
+
+.gyMainScreen_onayBekleyenSonucEmptyCell
+{
+	float: left;
+	text-align: center;
+	width: 10%;
+	height: 100%;
+}
+
+.gyMainScreen_onayBekleyenSonucLink:hover
+{
+	text-decoration: underline;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.gyMainScreen_onayBekleyenButton
+{
+	width: 80% !important;
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+	cursor: pointer;
+}
+
+#gyMainScreen_onayBekleyenSpan
+{
+	float: left;
+	padding-top: .4em;
+	padding-bottom: .4em;
+	color: #2E6E9E;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+#gyMainScreen_onayBekleyenSozlesmelerSonucDiv
+{
+	height: 410px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+.gyMainScreen_onayBekleyenSozlesmelerRow
+{
+	width: 100%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 13px;
+	border-bottom: 1px solid #096ac8;
+	height: 20px;
+}
+
+.gyMainScreen_onayBekleyenSozlesmeDetailCell
+{
+	width: 85%;
+	float: left;
+	border-right: 1px solid #096ac8;
+	cursor: pointer;
+}
+
+.gyMainScreen_onayBekleyenSozlesmeAktifDetailCell
+{
+	background: #096ac8;
+}
+
+.gyMainScreen_onayBekleyenSozlesmeButtonCell
+{
+	width: 14%;
+	float: left;
+}
+
+.gyMainScreen_onayBekleyenSozlesmeButton
+{
+	width: 70% !important;
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+	cursor: pointer;
+}
+
+#gyMainScreen_paymentPlanDiv
+{
+	height: 220px;
+	overflow-y: auto;
+}
+
+.gyMainScreen_paymentLabel
+{
+	display: block;
+	float: left;
+	width: 90px;
+	margin-right: 5px;
+}
+
+.gyMainScreen_paymentDueDateLabel
+{
+	display: block;
+	float: left;
+	width: 90px;
+	margin-right: 5px;
+}
+
+.gyMainScreen_paymentPaidCheckbox
+{
+	display: block;
+	float: left;
+}
+
+.gyMainScreen_paymentPaidSpan
+{
+	display: block;
+	float: left;
+}
+
+#gyMainScreen_firmaIstatistikOzetDiv, #gyMainScreen_mtIstatistikOzetDiv, #gyMainScreen_fuarIstatistikOzetDiv, #gyMainScreen_grupIstatistikOzetDiv
+{
+	height: 25px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+
+#gyMainScreen_fuarlarVeKatilimcilarContainerDiv
+{
+	height: 415px;
+	font-size: 13px;
+	font-family: Arial;
+}
+
+#gyMainScreen_fuarKatilimciAramaContainerDiv
+{
+	height: 75px;
+}
+
+.gyMainScreen_fuarKatilimciAramaRow
+{
+	margin-bottom: 5px;
+}
+
+.gyMainScreen_fuarKatilimciAramaRow>label
+{
+	text-align: left;
+	font-weight: bold;
+	width: 110px;
+	margin-right: 15px;
+}
+
+#gyMainScreen_fuarKatilimciAramaFuarSelect {
+	width: 168px;
+}
+
+#gyMainScreen_fuarKatilimciSonucDiv
+{
+	height: 350px;
+	overflow-y: auto;
+	border: 1px solid #096ac8;
+	margin-top: 10px;
+	border-radius: 6px;
+}

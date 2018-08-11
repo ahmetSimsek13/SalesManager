@@ -1,0 +1,83 @@
+#showFairs_holder
+{
+	width: 600px;
+	height: auto;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+}
+
+#showFairs_labelsContainer
+{
+	height: 360px;
+	float: right;
+	width: 49%;
+	border: 1px solid #79B7E7;
+}
+
+.showFairs_labelDiv
+{
+	height: 34px;
+	margin-bottom: 2px;
+}
+
+.showFairs_fieldLabel
+{
+	display: block;
+	float: left;
+	text-align: left;
+	font-family: Arial;
+    font-size: 12px;
+    margin-bottom: 3px;
+	margin-top: 1px;
+	padding-top: 2px;
+	width: 230px;
+	margin-left: 5px;
+}
+
+.showFairs_label
+{
+	display: block;
+	float: left;
+	text-align: left;
+	font-weight: bold;
+	font-family: Arial;
+    font-size: 12px;
+    margin-bottom: 3px;
+	margin-top: 1px;
+	padding-top: 2px;
+	width: 180px;
+	margin-left: 10px;
+}
+
+#showFairs_submitButton
+{
+	font-family: Arial !important;
+    font-size: 12px !important;
+	font-weight: bold;
+}
+
+#showFairs_fairsListDiv
+{
+	width: 50%;
+	float: left;
+	border: 1px solid #79B7E7;
+	height: 360px;
+}
+
+#showFairs_fairsList
+{
+	list-style-type: none; 
+	margin: 0; 
+	padding: 0; 
+	width: 100%;
+}
+
+#showFairs_fairsList li { margin: 3px; padding: 0.4em; font-size: 1.4em; height: 18px; }
+
+#showFairs_fairsList .ui-selected
+{
+	background: #DFEFFC;
+	font-weight: bold;
+}
